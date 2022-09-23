@@ -4,6 +4,8 @@
 
 ### Proje İçerisinde; yapılacak iş ekleme,güncelleme,silme, Yapılacaklar Listesi Görüntüleme, Yapılacaklar Listesi filtreleme (Tümü-Yapıldı-Yapılacak) mevcuttur.
 
+![github](src/assets/todo.png)
+
 
 ## Project setup
 ```
