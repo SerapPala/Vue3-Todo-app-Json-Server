@@ -1,4 +1,4 @@
-# todo-app
+# todo-app - JSON-SERVER
 
 ## Project setup
 ```
@@ -17,3 +17,5 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+![github](/todo-app/src/assets/todo.png)
