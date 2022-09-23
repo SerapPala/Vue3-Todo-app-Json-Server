@@ -18,4 +18,4 @@ npm run build
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-![github](/todo.png)
+![github](images/todo.png)
