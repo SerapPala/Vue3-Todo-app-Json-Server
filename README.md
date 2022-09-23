@@ -1,4 +1,9 @@
-# todo-app - JSON-SERVER
+# TODO-APP - YAPILACAKLAR LİSTESİ
+
+## KULLANILAN TEKNOLOJİ VUE3 / JSON-SERVER
+
+### Proje İçerisinde; yapılacak iş ekleme,güncelleme,silme, Yapılacaklar Listesi Görüntüleme, Yapılacaklar Listesi filtreleme (Tümü-Yapıldı-Yapılacak) mevcuttur.
+
 
 ## Project setup
 ```
@@ -18,4 +23,4 @@ npm run build
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-![github](images/todo.png)
+
